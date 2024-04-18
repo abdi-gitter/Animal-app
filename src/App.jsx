@@ -1,3 +1,4 @@
+//Animal app to demo state, events
 import "./App.css"
 import { useState } from "react";
 import AnimalShow from "./AnimalShow";
