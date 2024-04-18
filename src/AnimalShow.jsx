@@ -1,3 +1,4 @@
+//List of animals
 import "./AnimalShow.css";
 import { useState } from "react";
 import bird from "./svg/bird.svg";
