@@ -1,6 +1,6 @@
 //Animal app to demo state, events
 import "./App.css"
-import { useState } from "react";
+import { useState } from "react";//useState is a destructured array
 import AnimalShow from "./AnimalShow";
 
 function getRandomAnimal() {
