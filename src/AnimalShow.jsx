@@ -18,7 +18,7 @@ const svgMap = {
   heart,
   horse
 };
-function AnimalShow({type}) {
+function AnimalShow({type}) { //type is a prop
   const [clicks, setClicks] = useState(0);
 
 const handleClick = () =>{
